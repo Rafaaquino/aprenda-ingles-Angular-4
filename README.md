@@ -2,6 +2,7 @@
 
 Projeto de jogo de palavras utilizando Angular 4 com conceito de SPA
 
+---- NO ARQUIVO FALTA A PASTA NODE_MODULES -----
 
 
 
